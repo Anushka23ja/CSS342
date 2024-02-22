@@ -31,4 +31,12 @@ The output for n=3 should have the following form (the function call in main is 
 (3,'A', 'C', 'B')):</p>
 
 
-<h4>LAB 3: </h4>
+<h3>LAB 3: </h3>
+<p> 📌Learning Objective: Sorting algorithms,demonstrate the cost of O(n2) v. O(n logn) algorithms, show that algorithms with the same complexity
+may have different running times </p>
+
+<p>Wrote a program which implements the following sorts and compares the performance
+for operations on arrays of integers of growing sizes (e.g., 10k, for k=1, 2, 3,...).
+It is recommended that you use vectors of integers instead of arrays. The word “array” would
+be used to describe a list of integers from here on.
+Graph the performance of the different sorts as a function of the size of the array</p>
