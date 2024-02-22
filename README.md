@@ -40,3 +40,8 @@ for operations on arrays of integers of growing sizes (e.g., 10k, for k=1, 2, 3,
 It is recommended that you use vectors of integers instead of arrays. The word “array” would
 be used to describe a list of integers from here on.
 Graph the performance of the different sorts as a function of the size of the array</p>
+
+<h3>LAB 4: The List </h3>
+<p> 📌Learning Objective: Dynamic memory, Pointers, Linked lists, File IO, templates, operator overloading, overloading, copy constructors</p>
+
+
