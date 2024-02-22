@@ -10,8 +10,8 @@ is a duration of time of 1 hour, 2 minutes and 3 seconds.
 
 <h3>LAB 2: Recursion </h3>
 <p> 📌Learning Objective: Catalan number problem, Tower of Hanoi</p>
-
-Wrote a program called Catalan which takes one argument and calls a recursive function which
+<b>Catalan number problem</b>
+<p>Wrote a program called Catalan which takes one argument and calls a recursive function which
 computes the nth Catalan number. The program then prints out the result to std::out.
 In this problem requires the utilization of command line arguments.
 For instance,
@@ -19,7 +19,9 @@ Catalan 4
 Would print out: 14
 Catalan 10
 Would print out: 16796
+</p>
 
+<b>Tower of Hanoi</b>
 <p> Implemented a recursive algorithm for the solution of the Tower of Hanoi using n disks and using
 3 rods, labeled A, B, and C. Call the function “hanoiMoves” and it has 4 input
 parameters: n (number of disks), from, to, and extra. The last three are strings (A, B, C)
