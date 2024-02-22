@@ -1,6 +1,6 @@
 <h1> LABS completed through CSS 342 course at University of Washington </h1>
 <h4>LAB 1: TimeSpan </h4>
-<p> Used: Encapsulation and Abstraction </p>
+<p> Used: Constructors, Operators, Stream I/O, Encapsulation and Abstraction </p>
 
 Design and implement a TimeSpan class which represents a duration of time in hours, minutes,
 and seconds. The order hours, minutes, and seconds should be respected in the constructor.
